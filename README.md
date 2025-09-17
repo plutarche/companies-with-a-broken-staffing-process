@@ -39,8 +39,7 @@ Want to add a company, founder, or manager to this list? Here are the basics:
 
 ##### Note: The vast majority of PRs are approved. 
 
-- Defamation (court order required)
-- Fake person/company, anything we can't verify exists online
-- Genuine appeal (mentioned person or company representative required)
-- Duplicates, when found
-- Mistakes, when found
+- Defamation
+- Genuine appeal (mentioned person or company)
+- Duplicates and mistakes, when found
+- Trolling/unverified info
